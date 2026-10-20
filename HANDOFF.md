@@ -43,3 +43,4 @@
 - Real-device SMS handoff on iOS and Android (body encoding checked in Chromium; the text opens with "Hi Performance Cleaning Services, this is …").
 - Inside Facebook's in-app browser on a real phone.
 - Frame rate of the bounce-in on old phones.
+- Form field fill (#e6ecf5, the skill's recommended value) is only 1.19:1 against the white card; fields are identified by their labels, but a darker fill or a 1px border would satisfy WCAG 1.4.11 strictly.

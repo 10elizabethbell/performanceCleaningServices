@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-20T22:00:00Z",
+  "title": "Design System: Performance Cleaning Services",
+  "extensions": {
+    "colorMeta": {
+      "gold": {
+        "role": "primary",
+        "displayName": "Logo Gold",
+        "canonical": "oklch(78.1% 0.125 79.4)",
+        "tonalRamp": [
+          "oklch(15% 0.120 79.4)",
+          "oklch(27% 0.120 79.4)",
+          "oklch(39% 0.120 79.4)",
+          "oklch(51% 0.120 79.4)",
+          "oklch(63% 0.120 79.4)",
+          "oklch(75% 0.120 79.4)",
+          "oklch(85% 0.120 79.4)",
+          "oklch(95% 0.120 79.4)"
+        ]
+      },
+      "gold-2": {
+        "role": "primary",
+        "displayName": "Bright Gold",
+        "canonical": "oklch(83.4% 0.109 82.1)",
+        "tonalRamp": [
+          "oklch(15% 0.109 82.1)",
+          "oklch(27% 0.109 82.1)",
+          "oklch(39% 0.109 82.1)",
+          "oklch(51% 0.109 82.1)",
+          "oklch(63% 0.109 82.1)",
+          "oklch(75% 0.109 82.1)",
+          "oklch(85% 0.109 82.1)",
+          "oklch(95% 0.109 82.1)"
+        ]
+      },
+      "gold-ink": {
+        "role": "primary",
+        "displayName": "Burnished Gold Ink",
+        "canonical": "oklch(47.4% 0.093 74.9)",
+        "tonalRamp": [
+          "oklch(15% 0.093 74.9)",
+          "oklch(27% 0.093 74.9)",
+          "oklch(39% 0.093 74.9)",
+          "oklch(51% 0.093 74.9)",
+          "oklch(63% 0.093 74.9)",
+          "oklch(75% 0.093 74.9)",
+          "oklch(85% 0.093 74.9)",
+          "oklch(95% 0.093 74.9)"
+        ]
+      },
+      "navy": {
+        "role": "neutral",
+        "displayName": "Brand Navy",
+        "canonical": "oklch(28.4% 0.068 260.4)",
+        "tonalRamp": [
+          "oklch(15% 0.068 260.4)",
+          "oklch(27% 0.068 260.4)",
+          "oklch(39% 0.068 260.4)",
+          "oklch(51% 0.068 260.4)",
+          "oklch(63% 0.068 260.4)",
+          "oklch(75% 0.068 260.4)",
+          "oklch(85% 0.068 260.4)",
+          "oklch(95% 0.068 260.4)"
+        ]
+      },
+      "deep": {
+        "role": "neutral",
+        "displayName": "Deep Navy",
+        "canonical": "oklch(22.1% 0.052 262.2)",
+        "tonalRamp": [
+          "oklch(15% 0.052 262.2)",
+          "oklch(27% 0.052 262.2)",
+          "oklch(39% 0.052 262.2)",
+          "oklch(51% 0.052 262.2)",
+          "oklch(63% 0.052 262.2)",
+          "oklch(75% 0.052 262.2)",
+          "oklch(85% 0.052 262.2)",
+          "oklch(95% 0.052 262.2)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "oklch(22.1% 0.052 262.2)",
+        "tonalRamp": [
+          "oklch(15% 0.052 262.2)",
+          "oklch(27% 0.052 262.2)",
+          "oklch(39% 0.052 262.2)",
+          "oklch(51% 0.052 262.2)",
+          "oklch(63% 0.052 262.2)",
+          "oklch(75% 0.052 262.2)",
+          "oklch(85% 0.052 262.2)",
+          "oklch(95% 0.052 262.2)"
+        ]
+      },
+      "body": {
+        "role": "neutral",
+        "displayName": "Body Slate",
+        "canonical": "oklch(32.6% 0.042 258.3)",
+        "tonalRamp": [
+          "oklch(15% 0.042 258.3)",
+          "oklch(27% 0.042 258.3)",
+          "oklch(39% 0.042 258.3)",
+          "oklch(51% 0.042 258.3)",
+          "oklch(63% 0.042 258.3)",
+          "oklch(75% 0.042 258.3)",
+          "oklch(85% 0.042 258.3)",
+          "oklch(95% 0.042 258.3)"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft Slate",
+        "canonical": "oklch(45.0% 0.033 258.4)",
+        "tonalRamp": [
+          "oklch(15% 0.033 258.4)",
+          "oklch(27% 0.033 258.4)",
+          "oklch(39% 0.033 258.4)",
+          "oklch(51% 0.033 258.4)",
+          "oklch(63% 0.033 258.4)",
+          "oklch(75% 0.033 258.4)",
+          "oklch(85% 0.033 258.4)",
+          "oklch(95% 0.033 258.4)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "oklch(97.3% 0.007 268.5)",
+        "tonalRamp": [
+          "oklch(15% 0.007 268.5)",
+          "oklch(27% 0.007 268.5)",
+          "oklch(39% 0.007 268.5)",
+          "oklch(51% 0.007 268.5)",
+          "oklch(63% 0.007 268.5)",
+          "oklch(75% 0.007 268.5)",
+          "oklch(85% 0.007 268.5)",
+          "oklch(95% 0.007 268.5)"
+        ]
+      },
+      "card": {
+        "role": "neutral",
+        "displayName": "Card White",
+        "canonical": "oklch(100.0% 0.000 89.9)",
+        "tonalRamp": [
+          "oklch(15% 0.000 89.9)",
+          "oklch(27% 0.000 89.9)",
+          "oklch(39% 0.000 89.9)",
+          "oklch(51% 0.000 89.9)",
+          "oklch(63% 0.000 89.9)",
+          "oklch(75% 0.000 89.9)",
+          "oklch(85% 0.000 89.9)",
+          "oklch(95% 0.000 89.9)"
+        ]
+      },
+      "field": {
+        "role": "neutral",
+        "displayName": "Field Mist",
+        "canonical": "oklch(94.1% 0.014 258.3)",
+        "tonalRamp": [
+          "oklch(15% 0.014 258.3)",
+          "oklch(27% 0.014 258.3)",
+          "oklch(39% 0.014 258.3)",
+          "oklch(51% 0.014 258.3)",
+          "oklch(63% 0.014 258.3)",
+          "oklch(75% 0.014 258.3)",
+          "oklch(85% 0.014 258.3)",
+          "oklch(95% 0.014 258.3)"
+        ]
+      },
+      "on-dark": {
+        "role": "neutral",
+        "displayName": "On-dark",
+        "canonical": "oklch(97.5% 0.006 255.5)",
+        "tonalRamp": [
+          "oklch(15% 0.006 255.5)",
+          "oklch(27% 0.006 255.5)",
+          "oklch(39% 0.006 255.5)",
+          "oklch(51% 0.006 255.5)",
+          "oklch(63% 0.006 255.5)",
+          "oklch(75% 0.006 255.5)",
+          "oklch(85% 0.006 255.5)",
+          "oklch(95% 0.006 255.5)"
+        ]
+      },
+      "on-dark-soft": {
+        "role": "neutral",
+        "displayName": "On-dark Soft",
+        "canonical": "oklch(86.6% 0.028 258.4)",
+        "tonalRamp": [
+          "oklch(15% 0.028 258.4)",
+          "oklch(27% 0.028 258.4)",
+          "oklch(39% 0.028 258.4)",
+          "oklch(51% 0.028 258.4)",
+          "oklch(63% 0.028 258.4)",
+          "oklch(75% 0.028 258.4)",
+          "oklch(85% 0.028 258.4)",
+          "oklch(95% 0.028 258.4)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus Blue",
+        "canonical": "oklch(49.1% 0.128 258.7)",
+        "tonalRamp": [
+          "oklch(15% 0.120 258.7)",
+          "oklch(27% 0.120 258.7)",
+          "oklch(39% 0.120 258.7)",
+          "oklch(51% 0.120 258.7)",
+          "oklch(63% 0.120 258.7)",
+          "oklch(75% 0.120 258.7)",
+          "oklch(85% 0.120 258.7)",
+          "oklch(95% 0.120 258.7)"
+        ]
+      },
+      "error": {
+        "role": "neutral",
+        "displayName": "Error Red",
+        "canonical": "oklch(50.1% 0.178 28.7)",
+        "tonalRamp": [
+          "oklch(15% 0.120 28.7)",
+          "oklch(27% 0.120 28.7)",
+          "oklch(39% 0.120 28.7)",
+          "oklch(51% 0.120 28.7)",
+          "oklch(63% 0.120 28.7)",
+          "oklch(75% 0.120 28.7)",
+          "oklch(85% 0.120 28.7)",
+          "oklch(95% 0.120 28.7)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "rgba(13,26,51,.12)"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero H1 only; letter bounce-in."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section H2s."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Service rows, claims, step titles, Facebook row."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Form labels and legends; buttons at 18px; header phone."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Sentence under a section heading, max 40ch."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Running text and inputs."
+      },
+      "small": {
+        "displayName": "Small",
+        "purpose": "Row tags, optional hints, errors, the line under submit."
+      }
+    },
+    "shadows": [
+      {
+        "name": "badge-lift-paper",
+        "value": "0 20px 40px -22px rgba(13,26,51,.55)",
+        "purpose": "Logo badge in the closing band."
+      },
+      {
+        "name": "badge-lift-navy",
+        "value": "0 30px 60px -28px rgba(0,0,0,.6)",
+        "purpose": "Desktop hero logo badge."
+      },
+      {
+        "name": "float",
+        "value": "0 10px 28px rgba(8,20,42,.3)",
+        "purpose": "The floating circle."
+      }
+    ],
+    "motion": [
+      {
+        "name": "letter-in",
+        "value": "1s cubic-bezier(.34,1.56,.64,1), 20ms stagger, from translateX(50px) opacity 0",
+        "purpose": "Hero H1 letter bounce-in only."
+      },
+      {
+        "name": "rise",
+        "value": "opacity and translateY(12px) .4s ease-out",
+        "purpose": "Fade-up for blocks that start below the first screen."
+      },
+      {
+        "name": "float-in",
+        "value": "transform .35s cubic-bezier(.2,.8,.2,1)",
+        "purpose": "Floating circle slide-in."
+      },
+      {
+        "name": "state",
+        "value": ".2s (buttons, arrows), .15s (fields, chips)",
+        "purpose": "Colour and border state changes."
+      },
+      {
+        "name": "press",
+        "value": "scale(.98) .12s",
+        "purpose": "Button press."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow",
+        "value": "374px"
+      },
+      {
+        "name": "wide",
+        "value": "760px"
+      },
+      {
+        "name": "desktop",
+        "value": "1024px"
+      }
+    ],
+    "texture": {
+      "name": "band-lines",
+      "value": "repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)",
+      "purpose": "Hero, deep navy band and footer only; never on paper."
+    }
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Gold pill with ink text; the one main action per band.",
+      "html": "<div class=\"ds-band\"><a class=\"ds-btn ds-btn-primary\" href=\"#\">Get a free estimate</a></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0d1a33;--soft:#4a5668;--navy:#15294b;--deep:#0d1a33;--on-dark:#f4f7fb;--on-dark-soft:#c8d4e6;--gold:#e2ae52;--gold-2:#ecc273;--gold-ink:#7a5310;--focus:#2f5fa8;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--texture:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)} .ds-band{background:var(--navy);padding:24px} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:999px;font:400 18px/1 var(--display);text-decoration:none;cursor:pointer;border:2px solid transparent;transition:background-color .2s,color .2s,border-color .2s,transform .12s} .ds-btn:active{transform:scale(.98)} .ds-btn-primary{background:var(--gold);color:var(--ink);border-color:var(--gold)} .ds-btn-primary:hover{background:var(--gold-2);border-color:var(--gold-2)} .ds-btn-primary:focus-visible{outline:3px solid var(--gold);outline-offset:3px}"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Outlined pill for the secondary action, on navy only.",
+      "html": "<div class=\"ds-band\"><a class=\"ds-btn ds-btn-ghost\" href=\"#\">What we clean</a></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0d1a33;--soft:#4a5668;--navy:#15294b;--deep:#0d1a33;--on-dark:#f4f7fb;--on-dark-soft:#c8d4e6;--gold:#e2ae52;--gold-2:#ecc273;--gold-ink:#7a5310;--focus:#2f5fa8;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--texture:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)} .ds-band{background:var(--navy);padding:24px} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:999px;font:400 18px/1 var(--display);text-decoration:none;cursor:pointer;border:2px solid transparent;transition:background-color .2s,color .2s,border-color .2s,transform .12s} .ds-btn:active{transform:scale(.98)} .ds-btn-ghost{background:transparent;color:var(--on-dark);border-color:rgba(244,247,251,.7)} .ds-btn-ghost:hover{border-color:#fff;background:rgba(255,255,255,.1)} .ds-btn-ghost:focus-visible{outline:3px solid var(--gold);outline-offset:3px}"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "refersTo": "service-row",
+      "description": "Whole-row link on the deep textured band; only the arrow circle changes on hover and focus.",
+      "html": "<div class=\"ds-band\"><a class=\"ds-row\" href=\"#\"><span>Post-construction cleaning<span class=\"ds-tag\">New builds and remodels</span></span><span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></a></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0d1a33;--soft:#4a5668;--navy:#15294b;--deep:#0d1a33;--on-dark:#f4f7fb;--on-dark-soft:#c8d4e6;--gold:#e2ae52;--gold-2:#ecc273;--gold-ink:#7a5310;--focus:#2f5fa8;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--texture:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)} .ds-band{background-color:var(--deep);background-image:var(--texture);padding:24px} .ds-row{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:84px;padding:16px 16px 16px 24px;border-radius:20px;background:rgba(255,255,255,.07);color:var(--on-dark);text-decoration:none;font:400 24px/1.15 var(--display)} .ds-row:focus-visible{outline:none} .ds-tag{display:block;font:400 15px/1.3 var(--text);color:var(--on-dark-soft);margin-top:6px} .ds-arrow{width:44px;height:44px;flex:none;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.12);color:var(--on-dark);transition:background-color .2s,color .2s} .ds-row:hover .ds-arrow{background:var(--gold);color:var(--ink)} .ds-row:focus-visible .ds-arrow{background:var(--gold);color:var(--ink);outline:3px solid var(--gold);outline-offset:3px}"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Tinted borderless field with a Cal Sans label; focus-blue border on hover and focus.",
+      "html": "<div class=\"ds-card\"><label class=\"ds-label\" for=\"ds-n\">Your name</label><input class=\"ds-input\" id=\"ds-n\" type=\"text\" placeholder=\"First name is fine\"></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0d1a33;--soft:#4a5668;--navy:#15294b;--deep:#0d1a33;--on-dark:#f4f7fb;--on-dark-soft:#c8d4e6;--gold:#e2ae52;--gold-2:#ecc273;--gold-ink:#7a5310;--focus:#2f5fa8;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--texture:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)} .ds-card{background:var(--card);border-radius:24px;padding:24px;display:grid;gap:8px} .ds-label{font:400 17px/1.2 var(--display);color:var(--ink)} .ds-input{width:100%;box-sizing:border-box;font:16px/1.4 var(--text);color:var(--ink);background:var(--field);border:2px solid transparent;border-radius:10px;padding:13px 14px;min-height:52px;transition:border-color .15s} .ds-input::placeholder{color:var(--soft)} .ds-input:hover,.ds-input:focus{outline:none;border-color:var(--focus)}"
+    },
+    {
+      "name": "Job Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Radio chip for the job type; selected fills ink.",
+      "html": "<div class=\"ds-card\"><div class=\"ds-chips\"><input type=\"radio\" name=\"ds-j\" id=\"ds-j1\" checked><label for=\"ds-j1\">Post-construction</label><input type=\"radio\" name=\"ds-j\" id=\"ds-j2\"><label for=\"ds-j2\">Deep cleaning</label></div></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0d1a33;--soft:#4a5668;--navy:#15294b;--deep:#0d1a33;--on-dark:#f4f7fb;--on-dark-soft:#c8d4e6;--gold:#e2ae52;--gold-2:#ecc273;--gold-ink:#7a5310;--focus:#2f5fa8;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--texture:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)} .ds-card{background:var(--card);border-radius:24px;padding:24px} .ds-chips{display:flex;flex-wrap:wrap;gap:10px} .ds-chips input{position:absolute;width:1px;height:1px;opacity:0;margin:0} .ds-chips label{display:inline-flex;align-items:center;min-height:48px;padding:0 18px;border-radius:999px;background:var(--field);border:2px solid transparent;font:16px/1 var(--text);color:var(--ink);cursor:pointer;transition:border-color .15s,background-color .15s,color .15s} .ds-chips label:hover{border-color:var(--focus)} .ds-chips input:focus-visible+label{outline:3px solid var(--focus);outline-offset:2px} .ds-chips input:checked+label{background:var(--ink);color:#fff}"
+    },
+    {
+      "name": "Form Card",
+      "kind": "card",
+      "refersTo": "form-card",
+      "description": "White 24px card holding the estimate form on the navy band; flat, no border.",
+      "html": "<div class=\"ds-band\"><div class=\"ds-card\"><p class=\"ds-t\">Get a free estimate</p><p class=\"ds-s\">Big or small, home or business.</p></div></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0d1a33;--soft:#4a5668;--navy:#15294b;--deep:#0d1a33;--on-dark:#f4f7fb;--on-dark-soft:#c8d4e6;--gold:#e2ae52;--gold-2:#ecc273;--gold-ink:#7a5310;--focus:#2f5fa8;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--texture:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)} .ds-band{background:var(--navy);padding:24px} .ds-card{background:var(--card);border-radius:24px;padding:clamp(20px,5vw,32px);display:grid;gap:12px;max-width:600px} .ds-t{margin:0;font:400 30px/1.08 var(--display);color:var(--ink)} .ds-s{margin:0;font:16px/1.7 var(--text);color:var(--soft)}"
+    },
+    {
+      "name": "Header",
+      "kind": "nav",
+      "refersTo": "header",
+      "description": "Paper header: round logo mark and uppercase wordmark left, tap-to-call number right.",
+      "html": "<header class=\"ds-top\"><a class=\"ds-brand\" href=\"#\"><span class=\"ds-mark\"></span><span class=\"ds-nm\"><b>Performance</b><span>Cleaning Services</span></span></a><a class=\"ds-tel\" href=\"#\"><svg viewBox=\"0 0 24 24\" width=\"17\" height=\"17\" aria-hidden=\"true\"><path d=\"M5 3h3.5l1.8 4.6-2.3 1.5a11 11 0 0 0 6 6l1.5-2.3L20 14.5V18a2 2 0 0 1-2.2 2A16 16 0 0 1 3 5.2 2 2 0 0 1 5 3z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>732-861-9697</a></header>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0d1a33;--soft:#4a5668;--navy:#15294b;--deep:#0d1a33;--on-dark:#f4f7fb;--on-dark-soft:#c8d4e6;--gold:#e2ae52;--gold-2:#ecc273;--gold-ink:#7a5310;--focus:#2f5fa8;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--texture:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)} .ds-top{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:68px;padding:8px 20px;background:var(--paper);color:var(--ink)} .ds-brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:inherit;line-height:1} .ds-mark{width:44px;height:44px;border-radius:50%;background:var(--deep)} .ds-nm{display:flex;flex-direction:column} .ds-nm b{font:400 20px/1 var(--display);text-transform:uppercase;letter-spacing:.01em} .ds-nm span{font:600 11px/1 var(--text);letter-spacing:.08em;text-transform:uppercase;color:var(--soft);margin-top:5px} .ds-tel{display:inline-flex;align-items:center;gap:7px;min-height:44px;font:400 17px/1 var(--display);text-decoration:none;color:inherit;white-space:nowrap} .ds-tel svg{color:var(--gold-ink)} .ds-tel:hover{color:var(--gold-ink)} .ds-tel:focus-visible{outline:3px solid var(--focus);outline-offset:3px;border-radius:6px}"
+    },
+    {
+      "name": "Floating Circle",
+      "kind": "custom",
+      "refersTo": "float-circle",
+      "description": "One 60px gold circle, bottom right, after the hero and hidden over the form; links to the estimate form until texting is confirmed.",
+      "html": "<div class=\"ds-band\"><a class=\"ds-float\" href=\"#\" aria-label=\"Get a free estimate\"><svg viewBox=\"0 0 24 24\" width=\"26\" height=\"26\" aria-hidden=\"true\"><path d=\"M4 5h16v11H9l-5 4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a></div>",
+      "css": ":host{--paper:#f4f6fb;--card:#fff;--field:#e6ecf5;--ink:#0d1a33;--soft:#4a5668;--navy:#15294b;--deep:#0d1a33;--on-dark:#f4f7fb;--on-dark-soft:#c8d4e6;--gold:#e2ae52;--gold-2:#ecc273;--gold-ink:#7a5310;--focus:#2f5fa8;--error:#b3261e;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;--texture:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)} .ds-band{background:var(--paper);padding:24px} .ds-float{width:60px;height:60px;border-radius:50%;display:grid;place-items:center;background:var(--gold);color:var(--ink);box-shadow:0 10px 28px rgba(8,20,42,.3)} .ds-float:focus-visible{outline:3px solid var(--focus);outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Freshly Cleared Room",
+    "overview": "The page behaves like a room after the crew has left: a few large, plain surfaces, nothing left lying around, everything where you expect it. Full-bleed bands alternate off-white paper with two navies so each section is its own clean room, and the logo's gold is the one warm thing in it, used as a fill on the things you can press. Shapes are soft and borderless: pills, 20 to 24px rounded cards, tinted fields. There are no hairline frames, no photos and no ornament beyond the faint diagonal texture on the dark bands.\n\nDensity is low and phone-first. One column of large Cal Sans headings and 16px system body text, generous band padding (64px phone, 96px desktop), and one clear action per band. Desktop adds a second column and nothing else. Motion is a single bounce-in on the hero heading plus a 12px fade-up for what starts below the first screen; everything is readable at rest, without JavaScript, and under reduced motion.\n\nThis is Ellie's house calm band style (`~/.claude/skills/pitch-site/references/calm-photo-style.md`) coloured from this client's black-and-gold logo. The logo sits on black marble, but the page ground is never black: the black becomes navy and the marble becomes paper.",
+    "keyCharacteristics": [
+      "Paper, two navies and one gold; gold is a fill, never text on light.",
+      "Full-bleed bands alternate light and dark; the deep band carries the line texture.",
+      "One display face (Cal Sans, weight 400 only) over a system body stack.",
+      "Borderless, soft shapes: pills, 20px rows, 24px cards, 10px tinted fields.",
+      "Flat bands; shadows only on objects that float above them (logo badge, floating circle).",
+      "The real logo badge appears twice: header mark and closing band."
+    ],
+    "rules": [
+      {
+        "name": "The Gold Is a Fill Rule",
+        "body": "Gold (`gold`) is never text on a light ground (it is about 2:1). Text on gold is always `ink`. When gold must be read on paper or white, use `gold-ink`.",
+        "section": "colors"
+      },
+      {
+        "name": "The Never Black Rule",
+        "body": "The logo's black becomes navy. No band, card or button uses black or a near-black outside the two navies.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Warm Thing Rule",
+        "body": "There is one accent hue. Status colour (`error`) and the focus blue are functional, not decorative, and never fill a surface.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Display Face Rule",
+        "body": "Every heading, button, label and phone number is Cal Sans at weight 400; emphasis comes from size, not weight. Body text never uses Cal Sans, and no second body face is added.",
+        "section": "typography"
+      },
+      {
+        "name": "The Hero Only Bounce Rule",
+        "body": "Only the hero H1 animates letter by letter (each letter from translateX(50px), 1s cubic-bezier(.34,1.56,.64,1), 20ms stagger, plain heading restored on the last letter's animationend). No other heading animates its letters.",
+        "section": "typography"
+      },
+      {
+        "name": "The Only Things That Float Rule",
+        "body": "A shadow means the object is above the page. Surfaces that are part of a band (rows, cards, buttons, fields) stay flat; state is shown with fill and outline, never with a shadow.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Faint Lines Rule",
+        "body": "The deep navy band and the footer, and the hero, carry `repeating-linear-gradient(135deg, transparent 0 22px, rgba(255,255,255,.035) 22px 23px)`. Keep it at about 4% white or fainter so it never reads as lines through text. Paper bands are never textured.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** alternate full-bleed bands (paper, navy, paper, deep textured navy, paper, navy) so each new section is obvious.",
+      "**Do** use gold as a fill with ink on it, and `gold-ink` (#7a5310) whenever gold must be read on a light ground.",
+      "**Do** colour only the last phrase of a heading gold, and only on dark bands.",
+      "**Do** keep every heading, button and label in Cal Sans 400 and every paragraph in the 16px/1.7 system stack.",
+      "**Do** show state with fill and outline: gold arrow fill on rows, focus-blue borders on fields, a 3px outline offset 3px for keyboard focus (gold on navy, focus blue on light).",
+      "**Do** keep tap targets at 44px or larger and inputs at 16px or larger.",
+      "**Do** keep motion to the hero bounce-in and the 12px fade-up, and drop both under reduced motion."
+    ],
+    "donts": [
+      "**Don't** use a black ground anywhere; the logo's black becomes navy.",
+      "**Don't** set gold text on paper or white, or white text on gold.",
+      "**Don't** add borders, hairline frames or shadows to rows, cards, buttons or fields.",
+      "**Don't** texture a paper band or push the line texture above about 4% white.",
+      "**Don't** animate any heading letter by letter except the hero H1.",
+      "**Don't** replace the floating circle with a bottom bar, or show it while the form is on screen.",
+      "**Don't** add a second accent hue or a second body font."
+    ]
+  }
+}
