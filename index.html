@@ -114,7 +114,7 @@ section{padding:64px 0}
 .rows{list-style:none;margin:32px 0 0;padding:0;display:grid;gap:12px}
 .row{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:84px;padding:16px 16px 16px 24px;border-radius:20px;background:rgba(255,255,255,.07);color:var(--on-dark);text-decoration:none;font:400 clamp(21px,5.8vw,26px)/1.15 var(--display)}
 .row:hover,.row:focus-visible{outline:none;background:rgba(255,255,255,.07);box-shadow:none}
-.row .tag{display:block;font:400 15px/1.3 var(--text);color:var(--on-dark-soft);margin-top:6px}
+.row .tag{display:block;font:400 14px/1.35 var(--text);color:var(--on-dark-soft);margin-top:6px}
 .arrow{width:44px;height:44px;flex:none;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.12);color:var(--on-dark);transition:background-color .2s,color .2s}
 .arrow svg{width:18px;height:18px}
 .row:focus-visible .arrow{background:var(--gold);color:var(--ink);outline:3px solid var(--gold);outline-offset:3px}
@@ -155,12 +155,12 @@ input[type=text]:focus,textarea:focus{outline:none;border-color:var(--focus)}
 .chips label{display:inline-flex;align-items:center;min-height:48px;padding:0 18px;border-radius:var(--pill);background:var(--field);border:2px solid transparent;font:16px/1 var(--text);color:var(--ink);cursor:pointer;margin:0;transition:border-color .15s,background-color .15s,color .15s}
 .chips input:focus-visible+label{outline:3px solid var(--focus);outline-offset:2px}
 .chips input:checked+label{background:var(--ink);color:#fff}
-.err{display:none;font-size:15px;color:var(--error)}
+.err{display:none;font-size:16px;color:var(--error)}
 .field.bad .err{display:block}
 .field.bad input[type=text],.field.bad textarea,.field.bad input[type=text]:focus,.field.bad textarea:focus{border-color:var(--error)}
 form .btn-primary{width:100%}
 form .btn-primary:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
-.after{font-size:15px;color:var(--soft)}
+.after{font-size:16px;color:var(--soft)}
 .after a,.sent a{white-space:nowrap;color:var(--ink);font-weight:600;display:inline-block;padding:11px 0;margin:-11px 0}
 .sent{color:var(--ink);font-weight:600}
 @media (max-width:380px){.chips label{padding:0 14px}}

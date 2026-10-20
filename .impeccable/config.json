@@ -56,6 +56,15 @@
         ],
         "createdAt": "2026-10-20T21:58:31.117Z",
         "reason": "DESIGN.md omitted intentional shipped values: focus-ring radius and the wordmark/step responsive sizes (pitch-site build, 2026-10-20)"
+      },
+      {
+        "rule": "flat-type-hierarchy",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-20T23:11:36.689Z",
+        "reason": "Detector reads only fixed px sizes; headings are clamp() 30-80px from the house calm kit (DPG reference), so the real scale steps well past 1.25"
       }
     ]
   }
