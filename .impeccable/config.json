@@ -11,6 +11,51 @@
         ],
         "createdAt": "2026-10-20T21:51:26.669Z",
         "reason": "Ellie's house calm band style (pitch-site calm-photo-style.md item 2, set 2026-10-19) requires the faint 135deg band texture"
+      },
+      {
+        "rule": "design-system-radius",
+        "value": "6px",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-20T21:58:30.868Z",
+        "reason": "DESIGN.md omitted intentional shipped values: focus-ring radius and the wordmark/step responsive sizes (pitch-site build, 2026-10-20)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "18px",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-20T21:58:30.930Z",
+        "reason": "DESIGN.md omitted intentional shipped values: focus-ring radius and the wordmark/step responsive sizes (pitch-site build, 2026-10-20)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "11px",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-20T21:58:30.992Z",
+        "reason": "DESIGN.md omitted intentional shipped values: focus-ring radius and the wordmark/step responsive sizes (pitch-site build, 2026-10-20)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "24px",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-20T21:58:31.055Z",
+        "reason": "DESIGN.md omitted intentional shipped values: focus-ring radius and the wordmark/step responsive sizes (pitch-site build, 2026-10-20)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "22px",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-20T21:58:31.117Z",
+        "reason": "DESIGN.md omitted intentional shipped values: focus-ring radius and the wordmark/step responsive sizes (pitch-site build, 2026-10-20)"
       }
     ]
   }
